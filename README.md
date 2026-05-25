@@ -39,7 +39,7 @@ An interactive Netflix analytics dashboard built using Python, SQL, and Tableau 
 
 ## 📂 Project Structure
 
-```text
+text
 Netflix-Content-Intelligence-Dashboard/
 │
 ├── data/
